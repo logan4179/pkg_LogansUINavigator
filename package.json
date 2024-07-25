@@ -1,0 +1,22 @@
+{
+  "name": "com.loganland.logansuinavigator",
+  "version": "1.0.1",
+  "displayName": "Logans UI Navigator",
+  "description": "Canvas navigation system that handles button based canvas navigation and selection.",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.8"
+  },
+  "keywords": [
+    "UI",
+    "Menu"
+
+  ],
+  "author": {
+    "name": "Logan Jarrett",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}

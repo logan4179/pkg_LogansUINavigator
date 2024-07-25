@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1c286bb244ec6964f92f4b61ed5afc40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CustomInspectorPrefab: {fileID: 9197481963319205126, guid: 69da074087113b84e9d1abd0ef7c799b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
