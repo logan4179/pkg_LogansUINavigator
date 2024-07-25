@@ -1,6 +1,6 @@
 {
     "name": "com.loganland.logansuinavigator.Editor",
-    "rootNamespace": "LogansCanvasNavigator.Editor",
+    "rootNamespace": "LogansUINavigator.Editor",
     "references": [
         "GUID:bb663789ad2e5df4e90aa5671da6e6b6"
     ],

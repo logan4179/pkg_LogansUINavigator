@@ -1,6 +1,6 @@
 {
     "name": "com.loganland.loganscanvasnavigator",
-    "rootNamespace": "LogansCanvasNavigator",
+    "rootNamespace": "LogansUINavigator",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
