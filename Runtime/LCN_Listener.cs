@@ -106,7 +106,7 @@ namespace LogansUINavigator
 
             if ( !action_passed.HasInputs )
             {
-                Debug.LogWarning($"LDC WARNING! You tried to register an LCN_Action with an LCN_Listener, but there are no inputs to " +
+                Debug.LogWarning($"LDC WARNING! You tried to register an LCN_Action ('{action_passed.name}') with an LCN_Listener, but there are no inputs to " +
                 $"listen to. Was this intentional? Returning early...");
                 return;
             }
